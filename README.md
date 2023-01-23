@@ -1,1 +1,1 @@
-# My_LeetCode_Journey
+# My-LeetCode-Journey
